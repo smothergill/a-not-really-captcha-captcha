@@ -1,4 +1,7 @@
 # a-not-really-captcha-captcha
+
+A not really captcha, captcha. 
+
 Goofy, quick project that popped into my head. 
 
 Made pretty quickly after I thought about it after doing a captcha. Thinking of adding one more goofy feature. 
