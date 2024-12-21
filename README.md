@@ -4,7 +4,7 @@ A not really captcha, captcha.
 
 Goofy, quick, project that popped into my head. 
 
-Made pretty quickly after I thought about it after doing a captcha. Thinking of adding one more goofy feature. 
+Made pretty quickly after I thought about it after doing a captcha. Thinking of adding one more quick "authentication" feature. 
 
 Wanted to make it single file, with no classes. 
 
